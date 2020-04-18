@@ -1,0 +1,14 @@
+
+To install prettytable:
+
+1. Go to “https://pypi.python.org/pypi/PrettyTable#downloads”
+
+2. Download the correct file type. 
+	note: For MacOS, click on prettytable-0.7.2.zip (md5).
+
+2. Open terminal (for MacOS search for “terminal”).
+
+3. Type into terminal
+	>>> pip install prettytable
+
+Setup should be complete after these steps. 
